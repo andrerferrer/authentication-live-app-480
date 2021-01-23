@@ -1,1 +1,4 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+how to add first_name to the user using devise?
+	1- gen the migration adding first_name to users (and run it) ✔
+	2- permit these params in the AppController ✔
+	3- add the inputs in the view ✔
